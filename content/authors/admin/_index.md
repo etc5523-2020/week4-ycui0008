@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: Hello
+bio: 
 education:
   courses:
   - course: Masters of Business Analytics
@@ -13,22 +13,16 @@ interests:
 organizations:
 - name: Monash University
   url: ""
-role: Professor of Artificial Intelligence
+role: BA student
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ycui0008
 superuser: true
-title: Nelson Bighetti
+title: Yuheng Cui
 user_groups:
 - Researchers
 - Visitors

@@ -1,6 +1,6 @@
 ---
 title: Blog post 1
-author: Emi Tanaka
+author: Yuheng Cui
 date: '2020-08-25'
 slug: blog-post-1
 categories: []
@@ -8,7 +8,7 @@ tags: []
 subtitle: ''
 summary: ''
 authors: []
-lastmod: '2020-08-25T17:42:30+10:00'
+lastmod: 'r '
 featured: no
 image:
   caption: ''
@@ -18,9 +18,10 @@ projects: []
 ---
 
 
-# HEllo world
+# Hello world
 
 ```{r}
 plot(cars$speed, cars$dist)
 ```
 
+This is my first post through blogdown
